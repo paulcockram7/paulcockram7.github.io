@@ -10,7 +10,7 @@ Introduction to Python Programming
 
 ## Introduction to Python Programming
 
-### Lesson 1  Introduction
+### Lesson 1  Introduction.
 
 2. Lesson [Powerpoint]({{ site.baseurl }}/10python/l01/programming_01.pptx "Download this and follow the instructions in the powerpoint ")
 1. Lesson Work sheet and [Exercise Instructions]({{ site.baseurl }}/10python/l01/lesson_01.docx "Download this and follow the exercises in the document ")
