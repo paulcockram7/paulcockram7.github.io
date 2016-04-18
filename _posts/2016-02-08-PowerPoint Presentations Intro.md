@@ -145,7 +145,7 @@ Powerpoint Presentation
 		1. [hospital.jpg]({{ site.baseurl}}/07pat/multimedia/hospital.jpg){:target="_blank"}
 		1. [Outlet_Village.jpg]({{ site.baseurl}}/07pat/multimedia/Outlet_Village.jpg){:target="_blank"}
 		1. [topgun3d.mpg]({{ site.baseurl}}/07pat/multimedia/topgun3d.mpg){:target="_blank"}
-		1. [SWEEPER1.mp3]({{ site.baseurl}}/07pat/multimedia/SWEEPER1.mp3){:target="_blank"}
+		1. [sweeper1.mp3]({{ site.baseurl}}/07pat/multimedia/sweeper1.mp3){:target="_blank"}
 
 
 * A sample [PowerPoint]({{ site.baseurl}}/07pat/multimedia/Example 1 page Cancer Research UK school concert.pptx "A sample page from a multimedia presentation") page from a multimedia presentation.
