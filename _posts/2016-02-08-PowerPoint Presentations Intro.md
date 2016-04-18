@@ -124,7 +124,32 @@ Powerpoint Presentation
 			2. How to add and remove rows and columns
 			3. How to change the cell width/height and merge two cells together
 			4. How to change the appearance of the table from the table Style ribbon
-			5. ![Alt textl]({{ site.baseurl }}/07pat/Tableplenary1.png "Self Assessment CheckList Items" )
+			5. ![Alt textl]({{ site.baseurl }}/07pat/tableplenary1.png "Self Assessment CheckList Items" )
+
+## Multimedia Presentation mini project
+ 
+**Scenario**
+
+- You have been employed to assist in the organisation and promotion of a live charity music concert to be held at your school for all the students who currently attend Archway Academy.
+- The bands and artists performing at the concert have agreed to provide their services free of charge so that more money can be raised for a chosen charity. You must decide on the bands and artists who will play at the concert. The date, timing, ticket prices, ordering details and other features (e.g. digital images; clipart; animations etc.) will also need to be decided so that these can be included in the interactive multimedia product you will design and produce.
+- Your presentation must have a suitable housestyle that uses the charity you have chosen as a basis for this.
+- You must design and produce a multimedia product in the form of an interactive multimedia presentation that could be viewed on a standalone touch screen in a foyer. It must be designed to allow the user to interact with the product so that they can find the information that interests them or that they need to know. 
+- Your presentation needs to persuade the students of Archway Academy to purchase a ticket for the charity concert. You need to raise as much money as possible for your chosen charity.
+
+* Look at the [Scenario PowerPoint]({{ site.baseurl}}/07pat/multimedia/multimedia Scenerio.pptx "Download this for an overvew  ") for an Overview of the requirements.
+
+* ![Alt textl]({{ site.baseurl }}/07pat/multimedia/sample2.jpg "Example" )
+
+* Complete this [PowerPoint]({{ site.baseurl}}/07pat/multimedia/multimedia skills test.pptx "Download this and modify the powerpoint as instructed  ") skills test before you plan and construct your multimedia presentation.
+	* **Resources required for the Skills Test** (use the Mouse Right Button and *Save Link as*)
+		1. [hospital.jpg]({{ site.baseurl}}/07pat/multimedia/hospital.jpg){:target="_blank"}
+		1. [Outlet_Village.jpg]({{ site.baseurl}}/07pat/multimedia/Outlet_Village.jpg){:target="_blank"}
+		1. [topgun3d.mpg]({{ site.baseurl}}/07pat/multimedia/topgun3d.mpg){:target="_blank"}
+		1. [SWEEPER1.mp3]({{ site.baseurl}}/07pat/multimedia/SWEEPER1.mp3){:target="_blank"}
+
+
+* A sample [PowerPoint]({{ site.baseurl}}/07pat/multimedia/Example 1 page Cancer Research UK school concert.pptx "A sample page from a multimedia presentation") page from a multimedia presentation.
+* ![Alt textl]({{ site.baseurl }}/07pat/multimedia/sample1.jpg "Example" )
 
 
 
