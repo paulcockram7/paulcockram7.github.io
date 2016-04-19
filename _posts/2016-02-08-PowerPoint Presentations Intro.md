@@ -109,7 +109,7 @@ Powerpoint Presentation
 - Enter data into this table
 
 	* **Starter**
-		* PowerPoint Tables Instruction [Video]({{ site.baseurl }}/07pat/PowerPoint 2013 Tables.mp4 "Watch this video "){:target="_blank"}
+		* PowerPoint Tables Instruction [Video]({{ site.baseurl }}/07pat/PowerPoint 2013 Tables.avi "Watch this video "){:target="_blank"}
 		* Table [Instructions Link](http://www.gcflearnfree.org/office2013/powerpoint2013/23 "read this Web Based Lesson"){:target="_blank"} in PowerPoint
 
 	* **Task**

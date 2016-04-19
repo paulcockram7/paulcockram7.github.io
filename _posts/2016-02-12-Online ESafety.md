@@ -23,7 +23,7 @@ Online ESafety
 1. Aisha [E-Safety Questionnaire]({{ site.baseurl }}/08esafety/Aishas_story.docx "Download and answer the following questions ") 
 
 ### Cavs Story
-1. Cav [E-Safety Video]({{ site.baseurl }}/08esafety/cavs_story.wmv "Watch this video and answer the following questions ")
+1. Cav [E-Safety Video]({{ site.baseurl }}/08esafety/cavs_story1.wmv "Watch this video and answer the following questions ")
 1. Cav [E-Safety Questionnaire]({{ site.baseurl }}/08esafety/cavs_story.docx "Download and answer the following questions ") 
 
 
