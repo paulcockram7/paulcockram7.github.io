@@ -79,3 +79,9 @@ this is some test ****bolded**** xxx
 2. Granville Festival [Spreadsheet] ({{ site.baseurl }}/06excel/Granville_Festival_task.xls "Download this and follow the instructions in the above document ") here
 2. Class grades [Spreadsheet] ({{ site.baseurl }}/06excel/classxx_grades.xlsx "Download this and follow the instructions in the spreadsheet ")
 2. cat simple [Spreadsheet] ({{ site.baseurl }}/06excel/Cats_vlookup_simple.xls "Download this and follow the instructions in the spreadsheet ")
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |

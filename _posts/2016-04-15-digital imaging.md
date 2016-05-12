@@ -36,6 +36,8 @@ layout: page
 
 	- ![Alt textl]({{ site.baseurl }}/12digimage/pics/January Completed.jpg "Example calendar")
 
+___
+
 ### **1 Blending**
 
 Merging 2 or more pictures so that are see through.
@@ -50,6 +52,8 @@ Merging 2 or more pictures so that are see through.
 
 * [Instructions]({{ site.baseurl }}/12digimage/pdf/blending.pdf "Instructions for Blend"){:target="_blank" } to be followed to create the Blend Image
 
+___
+
 ### **2 Masking**
 
 Blanking out portion of an Image.
@@ -61,6 +65,8 @@ Blanking out portion of an Image.
 * [Face]({{ site.baseurl }}/12digimage/pics/maskfeather/Original man.jpg "Background for Blend")  (Use **Right Mouse Button** and **Save As** to save this Image to your area)
 
 * [Instructions]({{ site.baseurl }}/12digimage/pdf/simplemask.pdf "Instructions for Masking"){:target="_blank" } to be followed to create the Image
+
+___
 
 ### **3 Reflection**
 
@@ -74,6 +80,8 @@ Title says it all really.
 
 * [Instructions]({{ site.baseurl }}/12digimage/pdf/reflection.pdf "Instructions for Reflections"){:target="_blank" } to be followed to create the Image
 
+___
+
 ### **4 Clouds**
 
 Create Clouds.
@@ -85,6 +93,8 @@ Create Clouds.
 * None
 
 * [Instructions]({{ site.baseurl }}/12digimage/pdf/cloud.pdf "Instructions"){:target="_blank" } to be followed to create the Image
+
+___
 
 ### **5 Moon**
 
@@ -98,6 +108,8 @@ Create a Moon image.
 
 * [Instructions]({{ site.baseurl }}/12digimage/pdf/create a moon.pdf "Instructions"){:target="_blank" } to be followed to create the Image
 
+___
+
 ### **6 Borders**
 
 #### **Resources**
@@ -105,6 +117,8 @@ Create a Moon image.
 * None
 
 * [Instructions]({{ site.baseurl }}/12digimage/pdf/borders.pdf "Instructions"){:target="_blank" } to be followed to create the Image
+
+___
 
 ### **7 Line Drawing**
 
@@ -118,6 +132,8 @@ Change an Image into a Line Drwaing.
 
 * [Instructions]({{ site.baseurl }}/12digimage/pdf/linedraw.pdf "Instructions"){:target="_blank" } to be followed to create the Image
 
+___
+
 ### **8 Wrong Hair Day**
 
 Gray scale an image except for certain part(s).
@@ -129,6 +145,8 @@ Gray scale an image except for certain part(s).
 * [Wrong Hair Day Picture]({{ site.baseurl }}/12digimage/pics/wronghair/Wrong Hair Day Original.jpg )  (Use **Right Mouse Button** and **Save As** to save this Image to your area)
 
 * [Instructions]({{ site.baseurl }}/12digimage/pdf/wronghair.pdf "Instructions"){:target="_blank" } to be followed to create the Image
+
+___
 
 ### **9 Multi Layer Dreamey**
 
@@ -146,6 +164,8 @@ Use multiple layers to create a Dreamey(ish) image.
 
 * [Instructions]({{ site.baseurl }}/12digimage/pdf/multi layer dreamy.pdf "Instructions"){:target="_blank" } to be followed to create the Image
 
+___
+
 ### **10 Multi Layer Daisy Windmill**
 
 Use multiple layers to create a Dreamey(ish) Rotated Image.
@@ -157,6 +177,8 @@ Use multiple layers to create a Dreamey(ish) Rotated Image.
 * [Daisy Flower]({{ site.baseurl }}/12digimage/pics/multi windmill/daisy orig.png )  (Use **Right Mouse Button** and **Save As** to save this Image to your area)
 
 * [Instructions]({{ site.baseurl }}/12digimage/pdf/daisy windmill.pdf "Instructions"){:target="_blank" } to be followed to create the Image
+
+___
 
 ### **11 Foccussed**
 
@@ -170,6 +192,8 @@ Use multiple layers to create a Foccussed Motion Blur Image.
 
 * [Instructions]({{ site.baseurl }}/12digimage/pdf/focussed.pdf "Instructions"){:target="_blank" } to be followed to create the Image
 
+___
+
 ### **12 Zoom Daisy**
 
 Image with speed lines/blur.
@@ -181,6 +205,9 @@ Image with speed lines/blur.
 * [Daisy Flower]({{ site.baseurl }}/12digimage/pics/zoomdaisy/daisy orig.png )  (Use **Right Mouse Button** and **Save As** to save this Image to your area)
 
 * [Instructions]({{ site.baseurl }}/12digimage/pdf/zoomdaisy.pdf "Instructions"){:target="_blank" } to be followed to create the Image
+
+___
+
 
 
 
