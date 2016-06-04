@@ -10,10 +10,12 @@ layout: page
 
 - Investigate, Design and Create a mobile app using a web based simulator
 
+
 ___
 
 ### **01 Introduction to App Development**
 
+![Alt textl]({{ site.baseurl }}/14appshed/pics/appcollage01.png "Popular Apps")
 
 * [Category of APP]({{ site.baseurl }}/14appshed/01 Category of APP.docx )  (Use **Right Mouse Button** and **Save As** to save this to your area)
 
@@ -26,6 +28,8 @@ ___
 ___
 
 ### **02 App Development Walkthrough**
+
+<img src = "{{ site.baseurl }}/14appshed/pics/walk01.png"  width="350" height="400" />
 
 * [Walkthrough of APPshed]({{ site.baseurl }}/14appshed/02 Walkthrough of appshed.pdf "WalkThrough Instructions for creating a simple school app"){:target="_blank"}
 
@@ -49,9 +53,9 @@ ___
 
 ### **03 App Development Design**
 
-<img src = "{{ site.baseurl }}/14appshed/pics/AppshedGalleryExamples.png"  width="300" height="250" />
+<img src = "{{ site.baseurl }}/14appshed/pics/AppshedGalleryExamples.png"  width="500" height="400" />
 
-* Some [Example AppShed Apps](http://http://appshed.com/appbuilder/academy/appsgallery "Have a look at some AppShed apps that other people have created"){:target="_blank"} to Review
+* Some [Example AppShed Apps](http://www.appshed.com/appbuilder/academy/appsgallery "Have a look at some AppShed apps that other people have created"){:target="_blank"} to Review (NOTE: you may need to be logged into APPShed for this link to work)
 
 * [Design your APP]({{ site.baseurl }}/14appshed/03 Designing your APP.docx "Template for creating your own app") (Use **Right Mouse Button** and **Save As** to save this to your area)
 
@@ -60,6 +64,8 @@ ___
 ___
 
 ### **04 App Development Creation and Peer Assessment**
+
+<img src = "{{ site.baseurl }}/14appshed/pics/peerassess02.png"  width="300" height="300" />
 
 * [Peer Assessment Feedback]({{ site.baseurl }}/14appshed/04 Peer Assessment Feedback.docx "Peer Assessment Feedback Sheet") (Use **Right Mouse Button** and **Save As** to save this to your area)
 
@@ -71,6 +77,8 @@ ___
 
 ### **05 App Development Completion and Self Assessment**
 
+<img src = "{{ site.baseurl }}/14appshed/pics/selfassess02.png"  width="450" height="250" />
+
 * [Self Assessment]({{ site.baseurl }}/14appshed/05 Self Assessment.docx "Self Assessment Sheet") (Use **Right Mouse Button** and **Save As** to save this to your area)
 
 * [Lesson Powerpoint App Development Completion and Self Assessment]({{ site.baseurl }}/14appshed/05  Mobile APP Development  self assess.pptx ) (Use **Right Mouse Button** and **Save As** to save this to your area)
@@ -78,6 +86,8 @@ ___
 ___
 
 ### Tutorial Videos
+
+<img src = "{{ site.baseurl }}/14appshed/pics/videotutorial02.png"  width="450" height="250" />
 
 Below is a series of videos (about 5 minutes maximum per video) which deal with different development aspects using APPshed
 
@@ -98,7 +108,6 @@ Below is a series of videos (about 5 minutes maximum per video) which deal with 
 ___
 
 ### **Teacher Resources**
-
 * **01 Introduction to App Development**
 
 	- [STARTER buzzwords - app examples ]({{ site.baseurl }}/14appshed/01 buzzwords app examples starter.ppt )
