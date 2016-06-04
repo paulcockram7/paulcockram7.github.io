@@ -49,6 +49,10 @@ ___
 
 ### **03 App Development Design**
 
+<img src = "{{ site.baseurl }}/14appshed/pics/AppshedGalleryExamples.png"  width="300" height="250" />
+
+* Some [Example AppShed Apps](http://http://appshed.com/appbuilder/academy/appsgallery "Have a look at some AppShed apps that other people have created"){:target="_blank"} to Review
+
 * [Design your APP]({{ site.baseurl }}/14appshed/03 Designing your APP.docx "Template for creating your own app") (Use **Right Mouse Button** and **Save As** to save this to your area)
 
 * [Lesson Powerpoint App Planning]({{ site.baseurl }}/14appshed/03 Mobile APP Development  planning.pptx ) (Use **Right Mouse Button** and **Save As** to save this to your area)
@@ -113,7 +117,8 @@ ___
 
 * **05 App Development Completion and Self Assessment**
 
-	- placeholder
+	- [STARTER Quiz - appshed features ]({{ site.baseurl }}/14appshed/05 Quiz Show.pptx )
+
 
 
 
