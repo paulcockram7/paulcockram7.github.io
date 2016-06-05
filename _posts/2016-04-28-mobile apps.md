@@ -43,11 +43,12 @@ ___
 
 		- Use **Right Mouse Button** and **Save As** to save the images to your area
 
-		- School Logo <img src = "{{ site.baseurl }}/14appshed/pics/schoollogo.png"  width="100" height="100" />
+		- <img src = "{{ site.baseurl }}/14appshed/pics/schoollogo.png"  width="100" height="100" /> School Logo 
 
-		- School Logo with name <img src = "{{ site.baseurl }}/14appshed/pics/schoollogoandname.png"  width="100" height="100" />
-		- Email Icon <img src = "{{ site.baseurl }}/14appshed/pics/email icon.png"  width="100" height="100" />
-		- A School Picture <img src = "{{ site.baseurl }}/14appshed/pics/schoolpicture.jpg"  width="100" height="100" />
+		- <img src = "{{ site.baseurl }}/14appshed/pics/schoollogoandname.png"  width="100" height="100" /> School Logo with name
+		- <img src = "{{ site.baseurl }}/14appshed/pics/email icon.png"  width="100" height="100" /> Email Icon 
+
+		- <img src = "{{ site.baseurl }}/14appshed/pics/schoolpicture.jpg"  width="100" height="100" />  A School Picture
 
 ___
 
