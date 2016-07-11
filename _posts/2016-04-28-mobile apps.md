@@ -119,7 +119,7 @@ ___
 
 * **03 App Development Design**
 
-	- placeholder
+	- [STARTER wordsearch - app examples ]({{ site.baseurl }}/14appshed/00 wordsearch.docx )
 
 * **04 App Development Creation and Peer Assessment**
 
@@ -128,6 +128,8 @@ ___
 * **05 App Development Completion and Self Assessment**
 
 	- [STARTER Quiz - appshed features ]({{ site.baseurl }}/14appshed/05 Quiz Show.pptx )
+
+	- Example App [Recorded on a smartphone]({{ site.baseurl }}/14appshed/03 example screens on phones.avi ){:target="_blank"}
 
 
 
