@@ -62,7 +62,7 @@ Press the "Right Mouse Button" on the required sprite and select "save link as" 
 
 ## Teacher Resources
 
-* Examples of [completed maze games]({{ site.baseurl }}/11maze/rps/RPS5.zip " ") for scratch
+* Examples of [completed Rock Paper Scissor game]({{ site.baseurl }}/11maze/rps/RPS5.zip " ") for scratch
 
 
 
