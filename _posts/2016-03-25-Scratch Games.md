@@ -64,6 +64,33 @@ Press the "Right Mouse Button" on the required sprite and select "save link as" 
 
 * Examples of [completed Rock Paper Scissor game]({{ site.baseurl }}/11maze/rps/RPS5.zip " ") for scratch
 
+## 3 Create a Scratch Duck Shooting Game
+
+![Alt textl]({{ site.baseurl }}/11maze/ducks/ducks game 2 ducks.jpg "Completed Duck Shooting Game")
+
+Example of [completed game]({{ site.baseurl }}/11maze/ducks/ducksexample02.avi " "){:target="_blank" } video
+
+[Instructions]({{ site.baseurl }}/11maze/ducks/Duck Shooter Game.pdf " "){:target="_blank" } to be followed to create the game
+
+## Resources to be used by the game.
+
+Select the image you want to use.
+Press the "Right Mouse Button" on the required image and select "save link as" and save in your ict/computing folder. Make a note of the folder it is saved in as you will need to find this shortly from within Scratch.
+
+### Images required for the Duck Hunt Game
+
+* <img src = "{{ site.baseurl }}/11maze/ducks/ducka.png"  width="120" height="60" /> Duck A
+* <img src = "{{ site.baseurl }}/11maze/ducks/duckb.png"  width="120" height="60" /> Duck B
+
+### Sound file used by the game
+
+* [GunShot Sound]({{ site.baseurl }}/11maze/ducks/shotgun-sound.mp3 "Gun Shot sound file") sound file
+
+
+## Teacher Resources
+
+* Examples of [completed Duck Shooting game]({{ site.baseurl }}/11maze/ducks/duckgame.zip " ") for scratch
+
 
 
 
