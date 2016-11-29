@@ -109,9 +109,9 @@ ___
 
 ![Alt textl]({{ site.baseurl }}/16calendar/pics/DrawBoxS.jpg " ")
 
-* or orig
+* or original
 
-![Alt textl]({{ site.baseurl }}/16calendar/pics/Box icon.png " ")
+![Alt textl]({{ site.baseurl }}/16calendar/pics/Box icon01.png " ")
 
 * Set the fill colour to white, and if you like you can make it look a little transparent so you can still see the background behind the box.
 
