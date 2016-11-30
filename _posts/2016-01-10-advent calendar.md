@@ -109,10 +109,6 @@ ___
 
 ![Alt textl]({{ site.baseurl }}/16calendar/pics/DrawBoxS.jpg " ")
 
-* or original
-
-![Alt textl]({{ site.baseurl }}/16calendar/pics/boxicon01.jpg " ")
-
 * Set the fill colour to white, and if you like you can make it look a little transparent so you can still see the background behind the box.
 
 ![Alt textl]({{ site.baseurl }}/16calendar/pics/box for image.png " ")
@@ -134,6 +130,8 @@ ___
 
 * Draw a box for the door. When the box is selected, type a number and it will appear on the door. 
 
+![Alt textl]({{ site.baseurl }}/16calendar/pics/DrawBoxS.jpg " ")
+
 * Set the fill colour and font properties of the door. Size and move the box so it fits exactly over the top of the white box underneath it.
 
 ![Alt textl]({{ site.baseurl }}/16calendar/pics/door1.png " ")
@@ -146,15 +144,23 @@ ___
 
 * Right click the door and choose Custom Animation.
 
+![Alt textl]({{ site.baseurl }}/16calendar/pics/animation 1.png " ")
+
 * Choose Add Effect... Exit... and choose the effect you like... 
 
-* You now need to right click on the name of the animation, notice the name of the animation in this case is Rectangle 5: 1 yours will probably be called something else, that's fine, but you need to remember what it is.
+![Alt textl]({{ site.baseurl }}/16calendar/pics/AddAnim2S.jpg " ")
+
+* You now need to right click on the name of the animation, notice the name of the animation in this case is Rectangle 82:7 yours will probably be called something else, that's fine, but you need to remember what it is.
+
+![Alt textl]({{ site.baseurl }}/16calendar/pics/AnimTime1S.jpg " ")
 
 * Choose Timing...
 
 * From the pop-up box, choose the Timing tab.
 
-* Click Triggers... select 'Start effect on click of:' and choose the name of the door (Rectangle 5: 1 in this case, yours will probably be different)
+![Alt textl]({{ site.baseurl }}/16calendar/pics/AnimTrigger1S.jpg " ")
+
+* Click Triggers... select 'Start effect on click of:' and choose the name of the door (Rectangle 82: 7 in this case, yours will probably be different)
 
 * Click OK.
 
@@ -162,7 +168,11 @@ ___
 
 * Choose Browsed at Kiosk...
 
-* Click OK. View show to check the trigger works.
+![Alt textl]({{ site.baseurl }}/16calendar/pics/AnimKiosk1S.jpg " ")
+
+* Click OK. 
+
+* Next; View the slide show to check that the trigger works as expected.
 
 * If it does, you can now copy and paste the door to cover the other images. The trigger should copy as well. 
 
