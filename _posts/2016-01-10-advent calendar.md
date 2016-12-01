@@ -146,7 +146,7 @@ ___
 
 ![Alt textl]({{ site.baseurl }}/16calendar/pics/animation 1.png " ")
 
-* Choose Add Effect... Exit... and choose the effect you like... 
+* Choose Animations... Add animation... Exit... and choose the effect you like... 
 
 ![Alt textl]({{ site.baseurl }}/16calendar/pics/AddAnim2S.jpg " ")
 
@@ -164,7 +164,7 @@ ___
 
 * Click OK.
 
-* Finally, you need to set up the show to only respond to triggers. Choose Slide Show... Set up show...
+* Finally, you need to set up the show to only respond to triggers. Choose Slide Show... Set up slide show...
 
 * Choose Browsed at Kiosk...
 
@@ -172,7 +172,7 @@ ___
 
 * Click OK. 
 
-* Next; View the slide show to check that the trigger works as expected.
+* Next: View the slide show to check that the trigger works as expected.
 
 * If it does, you can now copy and paste the door to cover the other images. The trigger should copy as well. 
 
