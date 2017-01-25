@@ -40,7 +40,7 @@ Introduction to Python Programming
 
 If you complete the lesson tasks ahead of schedule start working your way through the challenges in the booklete link below (probably make sense to start at challenge 3). Note the illogical ordering of the challenges , it was designed for booklet printing. REMEMBER to screen shot the program and the output into your screen shot log with a sub heading of CHALLENGE plus the challenge number
 
-1. Extension [Challenge]({{ site.baseurl }}/10python/reference/Python_QuickReferenceGuide.pdf "1 page reference for all the python keywords,syntax etc..."){:target="_blank"} Tasks
+1. Extension [Challenge]({{ site.baseurl }}/10python/reference/bookofprogrammingchallenges.pdf "A booklet of programming tasks to do which get progressively harder"){:target="_blank"} Tasks
 
 	- ![Alt textl]({{ site.baseurl }}/10python/reference/chall1.jpg "Data Types")
 
